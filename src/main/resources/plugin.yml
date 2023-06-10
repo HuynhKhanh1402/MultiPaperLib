@@ -1,0 +1,5 @@
+name: MultiPaperLib
+version: '${project.version}'
+main: me.khanh.plugins.multipaperlib.MultiPaperLib
+api-version: 1.19
+authors: [KhanhHuynh]
